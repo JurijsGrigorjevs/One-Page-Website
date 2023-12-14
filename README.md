@@ -3,7 +3,7 @@
 
 
 ## **Introduction**
-This repository contains the HTML and CSS project that I completed as part of my course. The project is a web-based application created using HTML and CSS to demonstrate my understanding of front-end web development principles. In this README, you will find information about the project's purpose, the technologies used, the launch version, and other essential details to help you understand and potentially reproduce the project.
+This repository contains the HTML  project that I completed as part of my course. The project is a web-based application created using HTML  to demonstrate my understanding of front-end web development principles. In this README, you will find information about the project's purpose, the technologies used, the launch version, and other essential details to help you understand and potentially reproduce the project.
 
 ## **Technologies**
 The project primarily makes use of the following technologies:
