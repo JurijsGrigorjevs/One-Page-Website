@@ -35,7 +35,7 @@ The project serves as a basic example of a static web page. It includes the foll
 - Proper HTML structure
 
 ## **Examples of Use**
-It demonstrates how to create a simple web page with basic styling and responsive design.
+It demonstrates how to create a simple web page with basic styling and responsive design..
 
 ## **Project Status**
 The project is complete and serves as a demonstration of skills acquired during the course. No further development is planned at this time.
